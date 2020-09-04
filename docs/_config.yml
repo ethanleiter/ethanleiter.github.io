@@ -21,7 +21,7 @@
 title: CIT 480
 email: ethan.leiter@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my CIT 480 Blog! I'll be using this site to learn about Jekyll and post content on here that is relevant to the IT field!
+  Welcome to my CIT 480 Blog! I'll be using this site to learn about Jekyll and post content on here that is relevant to the IT field.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
