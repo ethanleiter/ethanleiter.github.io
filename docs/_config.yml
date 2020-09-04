@@ -28,7 +28,7 @@ twitter_username:
 github_username:  ethanleiter
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
